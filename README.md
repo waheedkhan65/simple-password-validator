@@ -28,3 +28,13 @@ Run the script in your terminal or any Python environment:
 
 ```bash
 python main.py
+
+Enter your passkey: abc12345
+✅ Password is valid
+
+
+Enter your passkey: abc
+❌ Password is invalid
+* Must be at least 8 characters long
+* Must contain numbers
+
